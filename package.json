@@ -21,6 +21,8 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
     "@nuxt/image": "^1.0.0",
     "clsx": "^2.0.0",
     "ipx": "^3.0.1",
