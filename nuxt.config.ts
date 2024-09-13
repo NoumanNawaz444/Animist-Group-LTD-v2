@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     '@nuxt/image'
   ],
+
   colorMode: {
     preference: 'system', 
     fallback: 'dark', 
@@ -12,4 +13,6 @@ export default defineNuxtConfig({
     classSuffix: '',
     storageKey: 'app-theme'
   },
+
+  compatibilityDate: '2024-09-13',
 })

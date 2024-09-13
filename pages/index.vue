@@ -11,7 +11,7 @@
 
 <script lang="ts" setup>
 useHead({
-  title: 'Agence X Template built with UnifyUI',
+  title: 'Animist Group Limited',
   meta: [
     {
       name: 'description',
